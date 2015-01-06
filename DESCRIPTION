@@ -1,0 +1,5 @@
+This is new design in which all errors relating to previous design are corrected.
+
+For list of errors please check the design PowerbankT45
+
+I found that if dp+ and dp- is not connected together in charging cable then some phones don't charge.
